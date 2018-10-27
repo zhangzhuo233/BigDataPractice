@@ -36,9 +36,18 @@ public class DrawStar {
         System.out.println("---九九乘法表---");
         for (int i = 1; i < 10; i++) {
             for (int j = 1; j <= i; j++) {
-                System.out.print(i + "*" + j + "=" + i * j+" ");
+                System.out.print(i + "*" + j + "=" + i * j + " ");
+            }
+            System.out.println();
+        }
+        // 倒着的99乘法表
+        System.out.println("---倒着的99乘法表---");
+        for (int i = 9; i > 0; --i) {
+            for (int j = 1; j <= i; ++j) {
+                System.out.print(i + "*" + j + "=" + i * j + " ");
             }
             System.out.println();
         }
     }
+
 }
