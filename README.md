@@ -2,7 +2,7 @@
 ## 源码目录介绍
 ```
 ./BigDataPractice
-├── javase01/src/com/bd/javabase                               // java练习代码
+├── javase01/src/com/bd/javabase           // java练习代码
 │   ├── ArrayDemo.java                     // 数组练习demo
 │   ├── Average.java                       // 求平均数
 │   ├── Caculate.java                      // 判断奇偶数，求最大最小数
@@ -14,7 +14,7 @@
 │   ├── SwitchDemo.java                    // switch练习
 │   ├── TwoDimensionalArrayDemo.java       // 二维数组初始化示例
 │   ├── TwoDimensionalArrayDemo2.java      // 二维数组遍历/求和/打印杨辉三角
-│   ├── FinalTest.java                     // 将输入的数字返回
+│   ├── MinPrice.java                      // 求最低价
 │   └── 
 ├── .idea                                  // 工程配置文件
 │   ├── 
