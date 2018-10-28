@@ -2,7 +2,7 @@
 ## 源码目录介绍
 ```
 ./BigDataPractice
-├── javase01                               // java练习代码
+├── javase01/src/com/bd/javabase                               // java练习代码
 │   ├── ArrayDemo.java                     // 数组练习demo
 │   ├── Average.java                       // 求平均数
 │   ├── Caculate.java                      // 判断奇偶数，求最大最小数
