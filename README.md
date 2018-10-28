@@ -12,8 +12,8 @@
 │   ├── HelloWorld.java                    // 输出helloworld
 │   ├── LuckDraw.java                      // 十位为2则中奖
 │   ├── SwitchDemo.java                    // switch练习
-│   ├── FinalTest.java                     // 将输入的数字返回
-│   ├── FinalTest.java                     // 将输入的数字返回
+│   ├── TwoDimensionalArrayDemo.java       // 二维数组初始化示例
+│   ├── TwoDimensionalArrayDemo2.java      // 二维数组遍历/求和/打印杨辉三角
 │   ├── FinalTest.java                     // 将输入的数字返回
 │   └── 
 ├── .idea                                  // 工程配置文件
