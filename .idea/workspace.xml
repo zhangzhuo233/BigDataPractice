@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edc6cc55-8a30-4070-85fa-f671d4463093" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/VisterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/Vistor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/javase01/bin/" />
@@ -17,19 +20,20 @@
     <session id="-498640194">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="classpath" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="36" />
           <entry key="md" value="3" />
           <entry key="project" value="1" />
         </counts>
@@ -38,20 +42,20 @@
         <counts>
           <entry key="Eclipse" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="36" />
           <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="java" value="4474" />
+          <entry key="java" value="5253" />
           <entry key="md" value="386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4474" />
+          <entry key="JAVA" value="5253" />
           <entry key="Markdown" value="386" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -59,7 +63,57 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/DogTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Vistor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/VisterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/MinPrice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,6 +141,10 @@
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/Average.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/MinPrice.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/DogTest.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/Vistor.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/Util.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/VisterTest.java" />
       </list>
     </option>
   </component>
@@ -108,12 +166,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="BigDataPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="javase01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigDataPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase01" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BigDataPractice" type="b2602c69:ProjectViewProjectNode" />
@@ -130,13 +194,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540738679698" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541163628692" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -154,9 +217,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinPrice">
+  <component name="RunManager" selected="Application.VisterTest">
     <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bd.javabase.Average" />
+      <module name="javase01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bd.javabase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.javabase.DogTest" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
@@ -173,19 +249,6 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bd.javabase.HelloWorld" />
       <module name="javase01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LuckDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.javabase.LuckDraw" />
-      <module name="javase01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bd.javabase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -218,8 +281,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArrayDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.javabase.TwoDimensionalArrayDemo2" />
+    <configuration name="VisterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.javabase.VisterTest" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
@@ -239,19 +302,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.LuckDraw" />
       <item itemvalue="Application.TwoDimensionalArrayDemo" />
-      <item itemvalue="Application.TwoDimensionalArrayDemo2" />
       <item itemvalue="Application.Average" />
       <item itemvalue="Application.MinPrice" />
+      <item itemvalue="Application.DogTest" />
+      <item itemvalue="Application.VisterTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VisterTest" />
+        <item itemvalue="Application.DogTest" />
         <item itemvalue="Application.MinPrice" />
         <item itemvalue="Application.Average" />
         <item itemvalue="Application.TwoDimensionalArrayDemo" />
-        <item itemvalue="Application.TwoDimensionalArrayDemo2" />
-        <item itemvalue="Application.LuckDraw" />
       </list>
     </recent_temporary>
   </component>
@@ -270,16 +333,19 @@
       <workItem from="1540694717122" duration="10454000" />
       <workItem from="1540738573079" duration="116000" />
       <workItem from="1540971245515" duration="73000" />
+      <workItem from="1541069955878" duration="1187000" />
+      <workItem from="1541161388830" duration="1874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29920000" />
+    <option name="totallyTimeSpent" value="32981000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18820679" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -288,7 +354,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21167883" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21167883" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -330,13 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -415,17 +474,56 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javase01/module.iml" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/DogTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/TwoDimensionalArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
+        <state relative-caret-position="259">
           <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Vistor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/MinPrice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="413">
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/VisterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
