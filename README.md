@@ -15,7 +15,8 @@
 │   ├── TwoDimensionalArrayDemo.java       // 二维数组初始化示例
 │   ├── TwoDimensionalArrayDemo2.java      // 二维数组遍历/求和/打印杨辉三角
 │   ├── MinPrice.java                      // 求最低价
-│   └── 
+│   ├── Student.java/StudentMain.java      // 练习构造方法/入口文件
+│   └── Student.java/StudentMain.java      // 练习构造方法/入口文件
 ├── .idea                                  // 工程配置文件
 │   ├── 
 │   └── *.xml                              // 版本控制信息等等
