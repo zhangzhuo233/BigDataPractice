@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edc6cc55-8a30-4070-85fa-f671d4463093" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/StaticTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatest/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatest/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/PenguinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/PetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/javabase/SubPaClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/javabase/SubPaClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/javase01/bin/" />
     <ignored path="$PROJECT_DIR$/Servers/bin/" />
@@ -21,21 +25,21 @@
     <session id="-498640194">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="2" />
-          <entry key="project.open.time.13" value="6" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="7" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="classpath" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="59" />
+          <entry key="java" value="69" />
           <entry key="md" value="4" />
           <entry key="project" value="1" />
         </counts>
@@ -44,20 +48,20 @@
         <counts>
           <entry key="Eclipse" value="3" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="69" />
           <entry key="Markdown" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="46" />
-          <entry key="java" value="7324" />
+          <entry key="java" value="8957" />
           <entry key="md" value="449" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7324" />
+          <entry key="JAVA" value="8957" />
           <entry key="Markdown" value="449" />
           <entry key="PLAIN_TEXT" value="46" />
         </counts>
@@ -70,46 +74,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SuperClass.java">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="227">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#149#150#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#227#228#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SubClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#506#507#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#877#878#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -169,6 +162,14 @@
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubClass.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/SubClass.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/Penguin.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/PenguinTest.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/PenguinTest.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Pet.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/PetTest.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Dog.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Test.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Student.java" />
       </list>
     </option>
   </component>
@@ -178,10 +179,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="642" />
+    <option name="width" value="638" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -190,7 +191,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,29 +219,23 @@
               <item name="javase01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bd" type="462c0819:PsiDirectoryNode" />
-              <item name="javabase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigDataPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javase01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bd" type="462c0819:PsiDirectoryNode" />
-              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+              <item name="javatask" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542557393734" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543237066023" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -255,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubPaClass">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -265,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonExecute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.javatest.PersonExecute" />
+    <configuration name="PenguinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.javatask.task01.PenguinTest" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bd.javatest.*" />
+          <option name="PATTERN" value="com.bd.javatask.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,25 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.javabase.StaticTest" />
+    <configuration name="PetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.javatask.task02.PetTest" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bd.javabase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.javabase.StaticTest2" />
-      <module name="javase01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bd.javabase.*" />
+          <option name="PATTERN" value="com.bd.javatask.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,6 +311,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.javatask.override.Test" />
+      <module name="javase01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bd.javatask.override.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.bd.javabase.HelloWorld" />
       <method v="2">
@@ -338,19 +332,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.PersonExecute" />
-      <item itemvalue="Application.StaticTest" />
-      <item itemvalue="Application.StaticTest2" />
       <item itemvalue="Application.SubClass" />
       <item itemvalue="Application.SubPaClass" />
+      <item itemvalue="Application.PenguinTest" />
+      <item itemvalue="Application.PetTest" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PetTest" />
+        <item itemvalue="Application.PenguinTest" />
         <item itemvalue="Application.SubPaClass" />
         <item itemvalue="Application.SubClass" />
-        <item itemvalue="Application.StaticTest2" />
-        <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.PersonExecute" />
       </list>
     </recent_temporary>
   </component>
@@ -375,18 +369,21 @@
       <workItem from="1541843467343" duration="2203000" />
       <workItem from="1541922351975" duration="5408000" />
       <workItem from="1542117391648" duration="1881000" />
-      <workItem from="1542466197083" duration="2928000" />
+      <workItem from="1542466197083" duration="2973000" />
+      <workItem from="1542600431345" duration="413000" />
+      <workItem from="1543056096462" duration="5022000" />
+      <workItem from="1543236434370" duration="802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46042000" />
+    <option name="totallyTimeSpent" value="52324000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.20355412" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.15508886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -394,14 +391,14 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5037037" side_tool="true" weight="0.20355412" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21167883" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2109589" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28321168" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26575342" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3270073" />
@@ -659,42 +656,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SuperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#149#150#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SubClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
             <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
             <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="234">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/PenguinTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
           <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/Penguin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="63" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/PetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -704,6 +780,17 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
