@@ -5,6 +5,6 @@ public class Dog extends Pet{
         super(name, gender, healthValue, intimacy);
     }
     public void show() {
-
+        System.out.println(super.getName());
     }
 }
