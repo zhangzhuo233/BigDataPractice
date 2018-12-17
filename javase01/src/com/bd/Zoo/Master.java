@@ -29,6 +29,15 @@ public class Master {
                 System.out.println("请输入名字:");
                 String name = sc.next();
                 animals[0].setName(name);
+                try{
+                    System.out.println("请输入腿数:");
+                    int legNum = sc.nextInt();
+                    animals[0].setLegNum(legNum);
+                } catch(AnimalException ex) {
+//                    ex.printStackTrace();
+                    System.out.println("error" + ex.getMessage());
+                }
+
                 break;
             case 2:
                 System.out.println("请输入名字:");

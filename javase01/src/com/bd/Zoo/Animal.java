@@ -24,10 +24,11 @@ public abstract class Animal {
         return legNum;
     }
 
-    public void setLegNum(int legNum) {
+    public void setLegNum(int legNum) throws AnimalException{
+        if (legNum < 0 || legNum > 4)
+            throw new AnimalException("legNum is Wrongful");
         this.legNum = legNum;
     }
 
-    // TODO 定义"动物叫"方法
     public abstract String shout();
 }
