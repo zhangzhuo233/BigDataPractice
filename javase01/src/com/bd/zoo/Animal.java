@@ -1,4 +1,4 @@
-package com.bd.Zoo;
+package com.bd.zoo;
 
 public abstract class Animal {
     private String name;

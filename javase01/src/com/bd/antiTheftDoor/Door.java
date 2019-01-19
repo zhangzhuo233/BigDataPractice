@@ -1,4 +1,4 @@
-package com.bd.AntiTheftDoor;
+package com.bd.antiTheftDoor;
 
 public abstract class Door {
     public abstract void open(); //开门

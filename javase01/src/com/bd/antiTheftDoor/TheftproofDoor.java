@@ -1,4 +1,4 @@
-package com.bd.AntiTheftDoor;
+package com.bd.antiTheftDoor;
 
 public class TheftproofDoor extends Door implements Lock{
     @Override

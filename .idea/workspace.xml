@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edc6cc55-8a30-4070-85fa-f671d4463093" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatest/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/javatest/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/practicalClass/StrCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/practicalClass/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/score/Master.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/score/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/score/TestScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testEnum/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javase01/src/com/bd/testEnum/TestSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/Door.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/Lock.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/Lock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/TheftproofDoor.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/AntiTheftDoor/TheftproofDoor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/TestException/TestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/TestException/TestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/AnimalException.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/AnimalException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Dolphin.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Dolphin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Master.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/Master.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/TestZoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/Zoo/TestZoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/javabase/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/javabase/FinalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/bin/com/bd/javabase/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/bin/com/bd/javabase/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Door.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/antiTheftDoor/Door.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/antiTheftDoor/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/antiTheftDoor/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/TheftproofDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/antiTheftDoor/TheftproofDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/TestException/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/testException/TestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/AnimalException.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/AnimalException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/Dolphin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/Zoo/TestZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/zoo/TestZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javase01/src/com/bd/javabase/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/javase01/src/com/bd/javabase/HelloWorld.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/javase01/bin/" />
     <ignored path="$PROJECT_DIR$/Servers/bin/" />
@@ -13,152 +56,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-498640194">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="9" />
-          <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.19" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="22" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="classpath" value="2" />
-          <entry key="iml" value="1" />
-          <entry key="java" value="116" />
-          <entry key="md" value="4" />
-          <entry key="project" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Eclipse" value="3" />
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="116" />
-          <entry key="Markdown" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="54" />
-          <entry key="java" value="12172" />
-          <entry key="md" value="449" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="12172" />
-          <entry key="Markdown" value="449" />
-          <entry key="PLAIN_TEXT" value="54" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="BigDataPractice" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Animal.java">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/practicalClass/TestMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+            <state relative-caret-position="324">
+              <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
               <folding>
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/TestZoo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-              <folding>
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Master.java">
+        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/practicalClass/StrCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/AnimalException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Dolphin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Duck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-              <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="347">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -177,7 +96,12 @@
     <findStrings>
       <find>test</find>
       <find>equals</find>
+      <find>stuSet</find>
+      <find>so</find>
     </findStrings>
+    <replaceStrings>
+      <replace>stuList</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -185,38 +109,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/StudentMain.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/PrintCourseNameMain.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/PrintCourseName.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Encapsulation.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Library.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Person.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/PersonExecute.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/StaticTest.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/StaticTest2.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/InheritTest.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/SuperClass.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubClass.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/SubClass.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/Penguin.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/PenguinTest.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/PenguinTest.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Pet.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/PetTest.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Test.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Student.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Dog.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/polymorphic/Person.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/polymorphic/Student.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/polymorphic/Main.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Pet.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Dog.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Penguin.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Main.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Door.java" />
-        <option value="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Lock.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/TheftproofDoor.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/TestMain.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/Mobile/TheakePictures.java" />
@@ -236,19 +132,40 @@
         <option value="$PROJECT_DIR$/javase01/src/com/bd/Zoo/TestZoo.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Animal.java" />
         <option value="$PROJECT_DIR$/javase01/src/com/bd/Zoo/Master.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Lock.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Derived.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Base.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/A.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Parent.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javatest/Test.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/Score/TestScore.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/Score/Master.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/Score/Score.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/TestAggregate/Dog.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/TestAggregate/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/TestAggregate/MyHashSet.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/TestAggregate/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/javabase/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCollection.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestArrayList.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestHashMap.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCollections.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/Student.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCompareTo.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testEnum/TestEnum.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testEnum/Subject.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/testEnum/TestSubject.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/practicalClass/SuffixCheck.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/practicalClass/TestMain.java" />
+        <option value="$PROJECT_DIR$/javase01/src/com/bd/practicalClass/StrCheck.java" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -279,20 +196,27 @@
               <item name="javase01" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="bd" type="462c0819:PsiDirectoryNode" />
-              <item name="Zoo" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigDataPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javase01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bd" type="462c0819:PsiDirectoryNode" />
+              <item name="practicalClass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545044566949" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546782386171" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -310,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestZoo">
+  <component name="RunManager" selected="Application.TestMain">
     <configuration name="HelloWorld" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -320,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.javatask.task03.Main" />
+    <configuration name="TestCollections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.testAggregate.TestCollections" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bd.javatask.task03.*" />
+          <option name="PATTERN" value="com.bd.testAggregate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,12 +257,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.TestException.TestException" />
+    <configuration name="TestCompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.testAggregate.TestCompareTo" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bd.TestException.*" />
+          <option name="PATTERN" value="com.bd.testAggregate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.testAggregate.TestHashSet" />
+      <module name="javase01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bd.testAggregate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -347,11 +284,11 @@
       </method>
     </configuration>
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.AntiTheftDoor.TestMain" />
+      <option name="MAIN_CLASS_NAME" value="com.bd.practicalClass.TestMain" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bd.AntiTheftDoor.*" />
+          <option name="PATTERN" value="com.bd.practicalClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,25 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMobile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.mobile.TestMobile" />
+    <configuration name="TestSubject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bd.testEnum.TestSubject" />
       <module name="javase01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bd.mobile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestZoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bd.Zoo.TestZoo" />
-      <module name="javase01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bd.Zoo.*" />
+          <option name="PATTERN" value="com.bd.testEnum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -393,19 +317,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.TestHashSet" />
+      <item itemvalue="Application.TestCollections" />
+      <item itemvalue="Application.TestCompareTo" />
+      <item itemvalue="Application.TestSubject" />
       <item itemvalue="Application.TestMain" />
-      <item itemvalue="Application.TestMobile" />
-      <item itemvalue="Application.TestException" />
-      <item itemvalue="Application.TestZoo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestZoo" />
-        <item itemvalue="Application.TestException" />
-        <item itemvalue="Application.TestMobile" />
         <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.TestSubject" />
+        <item itemvalue="Application.TestCompareTo" />
+        <item itemvalue="Application.TestCollections" />
+        <item itemvalue="Application.TestHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -440,12 +364,22 @@
       <workItem from="1544855155277" duration="2788000" />
       <workItem from="1544951489698" duration="599000" />
       <workItem from="1545026109129" duration="6215000" />
-      <workItem from="1545039213339" duration="1214000" />
+      <workItem from="1545039213339" duration="1803000" />
+      <workItem from="1545196409593" duration="14000" />
+      <workItem from="1545196471493" duration="220000" />
+      <workItem from="1545197163094" duration="5065000" />
+      <workItem from="1545392100110" duration="608000" />
+      <workItem from="1545473014730" duration="8333000" />
+      <workItem from="1546333225499" duration="130000" />
+      <workItem from="1546333432683" duration="2493000" />
+      <workItem from="1546514421799" duration="6044000" />
+      <workItem from="1546744208273" duration="4726000" />
+      <workItem from="1547888092332" duration="351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72695000" />
+    <option name="totallyTimeSpent" value="101268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,10 +391,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4962963" weight="0.35056543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.15266559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -470,17 +404,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46131387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43150684" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3270073" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19124088" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32574257" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32328767" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959612" />
@@ -490,9 +425,10 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.35056543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4962963" visible="true" weight="0.15268457" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -502,17 +438,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46131387" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43150684" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3270073" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19124088" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329927" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32574257" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32328767" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24959612" />
@@ -522,255 +459,90 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/StudentMain.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/antiTheftDoor/Door.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="72">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/VisterMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Student.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testException/TestException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/PrintCourseName.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/Animal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="396">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/PrintCourseNameMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/PersonExecute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/StaticTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SubClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/SubPaClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/SuperClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/PetTest.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/TestZoo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Dog.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="180">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task02/Pet.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/AnimalException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        <state relative-caret-position="108">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Test.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/Dolphin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/PenguinTest.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/Duck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        <state relative-caret-position="162">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task01/Penguin.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/zoo/Master.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/polymorphic/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/polymorphic/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/polymorphic/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Penguin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/task03/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor.java" />
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatask/override/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Mobile.java" />
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/TheftproofDoor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Lock.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/Base.java" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/Derived.java" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/A.java" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/antiTheftDoor/Lock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/AntiTheftDoor/Door.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/TheakePictures.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -783,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/PlayWiring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="36">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -795,10 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/CommonHandSetImpl.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="72">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -809,105 +581,228 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/Handset.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/CommonHandSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Score/ScoreException.java" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javatest/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/score/Score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/score/Master.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/score/TestScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/bin/com/bd/testAggregate/MyArrayList.class" />
+    <entry file="file://$PROJECT_DIR$/javase01/bin/com/bd/testAggregate/MyHashSet.class" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/javabase/FinalTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCollection.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-817">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="359" column="28" lean-forward="true" selection-start-line="359" selection-start-column="28" selection-end-line="359" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#824#832#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866">
+          <caret line="176" column="11" selection-start-line="176" selection-start-column="11" selection-end-line="176" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="210" column="8" selection-start-line="210" selection-start-column="8" selection-end-line="210" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/css/CascadingStyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="167" column="33" selection-start-line="167" selection-start-column="33" selection-end-line="167" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="95" column="17" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCompareTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#229#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#230#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testAggregate/TestHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testEnum/TestSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/testEnum/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/practicalClass.java" />
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/Handset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/mobile/TheakePictures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/TestException/TestException.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/practicalClass/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Dolphin.java">
+    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/practicalClass/StrCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/TestZoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/AnimalException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="28" column="51" lean-forward="true" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javase01/src/com/bd/Zoo/Master.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+        <state relative-caret-position="347">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
         </state>
       </provider>
     </entry>

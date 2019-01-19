@@ -1,4 +1,4 @@
-package com.bd.TestException;
+package com.bd.testException;
 
 public class TestException {
     public static void main(String[] args) {

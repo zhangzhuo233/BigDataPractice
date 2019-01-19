@@ -1,4 +1,4 @@
-package com.bd.Zoo;
+package com.bd.zoo;
 
 import java.util.Scanner;
 

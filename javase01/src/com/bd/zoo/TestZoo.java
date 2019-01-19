@@ -1,4 +1,4 @@
-package com.bd.Zoo;
+package com.bd.zoo;
 
 public class TestZoo {
     public static void main(String[] args) {
