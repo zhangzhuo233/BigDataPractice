@@ -1,8 +1,8 @@
 package com.bd.javabase;
 
-import com.bd.javatest.SubClass;
+import com.bd.javaTest.SubClass;
 
-public class SubPaClass extends com.bd.javatest.SubClass {
+public class SubPaClass extends com.bd.javaTest.SubClass {
 //    private int id;
     SubPaClass(){
 //        super();
