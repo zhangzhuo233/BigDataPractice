@@ -18,6 +18,7 @@ public class FileTest {
         }
         Date date = new Date(fs.lastModified());
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+        fs.delete();
         System.out.println("文件属性:" + fs.getAbsolutePath() + " " + fs.length() + " " + fs.lastModified() + " " + sdf.format(date));
         if (fs.exists()) {
             System.out.println("文件已存在");

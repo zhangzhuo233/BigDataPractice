@@ -16,7 +16,7 @@ public class DirectoryTest {
             System.out.println("创建成功");
         }
         new DirectoryTest().show(new File("." + File.separator + "a"));
-
+        System.out.println(fs.delete());
     }
 
     public void show(File file) {
