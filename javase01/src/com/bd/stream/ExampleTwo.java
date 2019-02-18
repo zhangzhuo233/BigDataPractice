@@ -1,4 +1,4 @@
-package com.bd.fileTest;
+package com.bd.stream;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
