@@ -1,7 +1,5 @@
 package com.bd.javatask.polymorphic;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-
 public class Student extends Person {
     private String name;
 
