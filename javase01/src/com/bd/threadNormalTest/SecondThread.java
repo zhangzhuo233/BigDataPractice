@@ -1,4 +1,4 @@
-package com.bd.threadTest;
+package com.bd.threadNormalTest;
 
 public class SecondThread implements Runnable {
     private int i;

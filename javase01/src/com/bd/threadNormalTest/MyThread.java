@@ -1,4 +1,4 @@
-package com.bd.threadTest;
+package com.bd.threadNormalTest;
 
 public class MyThread extends Thread{
     @Override

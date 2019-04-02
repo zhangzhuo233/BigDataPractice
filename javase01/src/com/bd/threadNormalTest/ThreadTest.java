@@ -1,4 +1,4 @@
-package com.bd.threadTest;
+package com.bd.threadNormalTest;
 
 public class ThreadTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.bd.threadTest;
+package com.bd.threadNormalTest;
 /*
 * 线程调用yield()方法后
 * 1.强制当前线程进入就绪状态

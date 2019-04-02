@@ -1,4 +1,4 @@
-package com.bd.threadTest;
+package com.bd.threadNormalTest;
 
 public class DaemonThread extends Thread{
     // 定义守护进程的线程执行体与普通线程没有什么区别

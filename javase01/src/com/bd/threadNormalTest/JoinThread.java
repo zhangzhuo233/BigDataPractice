@@ -1,4 +1,4 @@
-package com.bd.threadTest;
+package com.bd.threadNormalTest;
 
 public class JoinThread extends Thread{
     // 提供一个有参的构造器，用于设置该线程的名字
