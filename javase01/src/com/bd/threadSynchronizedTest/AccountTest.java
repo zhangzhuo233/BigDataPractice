@@ -11,6 +11,5 @@ public class AccountTest {
 
         // DepositThread dt = new DepositThread(acct, 800);
         // new Thread(dt, "乙").start();
-
     }
 }

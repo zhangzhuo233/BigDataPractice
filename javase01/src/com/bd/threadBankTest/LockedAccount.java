@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 public class LockedAccount {
     // 定义锁对象
-    private final ReentrantLock  lock = new ReentrantLock();
+    private final ReentrantLock lock = new ReentrantLock();
     // 封装账户编号、账户余额的两个成员变量
     private String accountNo;
     private double balance;

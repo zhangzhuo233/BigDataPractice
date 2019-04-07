@@ -1,4 +1,4 @@
-package com.bd.threadSynchronizedTest;
+package com.bd.threadCondition;
 
 public class DrawThread extends Thread{
     private Account account;
@@ -13,7 +13,6 @@ public class DrawThread extends Thread{
     @Override
     public void run() {
         for (int i = 0; i < 5; i++) {
-            System.out.println("draw: " + i);
             account.draw(drawAmount);
         }
     }

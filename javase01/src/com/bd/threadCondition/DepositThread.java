@@ -1,6 +1,6 @@
-package com.bd.threadSynchronizedTest;
+package com.bd.threadCondition;
 
-public class DepositThread extends Thread{
+public class DepositThread extends Thread {
     private Account account;
     private double depositAmount;
 
@@ -13,7 +13,6 @@ public class DepositThread extends Thread{
     @Override
     public void run() {
         for (int i = 0; i < 5; i++) {
-            System.out.println("deposit: " + i);
             account.deposit(depositAmount);
         }
     }
