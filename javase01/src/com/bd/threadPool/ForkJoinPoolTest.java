@@ -4,6 +4,7 @@ package com.bd.threadPool;
 import java.util.Date;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @Author: zhangzhuo05
@@ -51,9 +52,16 @@ public class ForkJoinPoolTest {
         ForkJoinPool pool = new ForkJoinPool();
         // 提交可分解的PrintTask任务
         pool.submit(new PrintTask(0, 300));
+        try {
+            // 监测ExecutorService(尽快执行线程的线程池)是否已经关闭，若关闭则返回true，否则返回false
+            boolean termiationFlag = pool.awaitTermination(2, TimeUnit.SECONDS);
+            System.out.println("termiationFlag: " + termiationFlag);
+        } catch (InterruptedException e) {
+            System.out.println("awaitTermination error:" + e);
+            e.printStackTrace();
+        }
         // 关闭线程池
         pool.shutdown();
         // long endTime = dateObj.getTime();
-
     }
 }
