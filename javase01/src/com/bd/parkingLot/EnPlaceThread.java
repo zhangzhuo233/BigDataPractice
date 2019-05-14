@@ -3,7 +3,7 @@ package com.bd.parkingLot;
 /**
  * @Author: zhangzhuo05
  * @Date: 2019-05-13 17:09
- * @Description:
+ * @Description: 入库线程
  */
 public class EnPlaceThread extends Thread{
     private Park park;
