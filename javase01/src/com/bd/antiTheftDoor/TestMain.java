@@ -6,6 +6,5 @@ public class TestMain {
        dr.open();
        ((TheftproofDoor) dr).lockUp();
        ((TheftproofDoor) dr).openLock();
-       dr.open();
     }
 }
